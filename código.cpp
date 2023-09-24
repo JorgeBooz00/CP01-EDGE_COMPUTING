@@ -26,6 +26,7 @@ void loop()
     digitalWrite(ledVerde, HIGH);
     digitalWrite(ledAmarelo, LOW);
     digitalWrite(ledVermelho, LOW);
+    noTone(buzzerAlarm);
   }  
   else if (analogRead(sensorLDR) > 120) { 
     digitalWrite(ledAmarelo, HIGH);
