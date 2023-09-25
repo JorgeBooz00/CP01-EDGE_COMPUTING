@@ -37,7 +37,7 @@ The system will consist of three levels of visual signaling to indicate the stat
 
 3. **Red LED:** When light intensity exceeds acceptable limits, the red LED will activate to indicate a critical problem in the storage environment. Immediate intervention is required to prevent damage to the wines.
 
-Additionally, the system will include a buzzer that will sound for 3 seconds whenever light intensity reaches the warning level. This provides an additional audible alert to draw attention to the situation. The buzzer will continue to sound if light intensity remains in the warning state, ensuring it is not overlooked.
+Additionally, the system will include a buzzer that will sound for X seconds whenever light intensity reaches the warning level. This provides an additional audible alert to draw attention to the situation. The buzzer will continue to sound if light intensity remains in the warning state, ensuring it is not overlooked.
 
 This is the first step in the broader project to monitor wine storage conditions at Vinheria Agnello. With the success of this phase, the team plans to expand the system to monitor temperature and humidity, providing comprehensive control over the critical variables affecting wine quality in storage.
 
